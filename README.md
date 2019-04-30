@@ -1,2 +1,2 @@
 # Khalil-Ben-Smida
-Gregorian Calendar &amp; modification
+The aim of this program is to create a calendar by choosing a month, then we could add an event on a specific day of a chosen month, modify it, delete it and list the events of any month chosen.
